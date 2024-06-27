@@ -1,0 +1,18 @@
+{
+    "settings": {
+      "links": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "OpenAI",
+          "url": "https://www.openai.com"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com"
+        }
+      ]
+    }
+  }
